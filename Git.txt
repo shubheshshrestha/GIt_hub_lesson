@@ -1,0 +1,26 @@
+# Git ....
+
+
+
+
+
+
+# Git revert 
+
+
+#requirement
+# .env - ignore(dont track repository)
+# .gitignore
+
+# Go to toptal.com - search django and python - copy paste it on .gitignore
+
+# git rm --cached Git.txt (remove from repository)
+# git rm Git.txt (Permanently deletes the file)
+
+# GitHub
+ # SSH Key
+ # Git Bash
+ # Generate
+ # passphrase (2nd key) leave empty 
+ # add SSH to agent
+ # run powershell as administration
